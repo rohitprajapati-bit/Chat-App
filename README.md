@@ -72,11 +72,10 @@ The **Provider** package is used for state management, making the app responsive
 
 ## Screenshots
 
-| Page         | Screenshot                                                                 |
+| Page         | Screenshot                                                                  |
 |--------------|-----------------------------------------------------------------------------|
-| **Login**    | ![Login Screen]((https://github.com/user-attachments/assets/8a0958fa-16db-4de5-8222-e39ed3ad7b9d)
-)                                    |
-| **Register** | ![Register Screen]()                              |
+| **Login**    | https://github.com/user-attachments/assets/ad798916-d529-443a-a32d-89a06774df50)
+| **Register** | ![Register Screen]()                                                        |
 | **Chat Room**| ![Chat Room Screen](./screenshots/chatroom.png)                             |
 | **Profile**  | ![Profile Update Screen](./screenshots/profile.png)                         |
 
