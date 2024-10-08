@@ -1,6 +1,3 @@
-Here's a `README.md` for your chat app using Firebase, following the format you provided:
-
----
 
 # Chat App
 
@@ -66,11 +63,6 @@ The **Provider** package is used for state management, making the app responsive
 - Real-time messaging with messages displayed in a list.
 - Messages are stored in Firebase Firestore.
 
-### Profile Update
-
-- Users can update their display names and profile information.
-- Profile changes are saved to Firebase in real-time.
-
 ## Setup
 
 To set up and run the project locally, follow the steps below:
@@ -111,7 +103,7 @@ To set up and run the project locally, follow the steps below:
 
 ## Contributors
 
-- **Nagendra Prajapati** - Lead Developer
+- **Rohit Prajapati** - Lead Developer
 
 ## License
 
