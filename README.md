@@ -103,7 +103,7 @@ To set up and run the project locally, follow the steps below:
 
 ## Contributors
 
-- **Rohit Prajapati** - Lead Developer
+- **Rohit Prajapati** -  Junior Developer
 
 ## License
 
