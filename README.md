@@ -1,4 +1,5 @@
 
+
 # Chat App
 
 A Flutter-based chat application that enables real-time messaging and user authentication using Firebase. This app allows users to chat securely, authenticate using email and password, and store messages in Firebase Firestore.
@@ -10,6 +11,7 @@ A Flutter-based chat application that enables real-time messaging and user authe
 - [Architecture](#architecture)
 - [State Management](#state-management)
 - [Pages and Functionality](#pages-and-functionality)
+- [Screenshots](#screenshots)
 - [Setup](#setup)
 - [Contributors](#contributors)
 - [License](#license)
@@ -63,6 +65,21 @@ The **Provider** package is used for state management, making the app responsive
 - Real-time messaging with messages displayed in a list.
 - Messages are stored in Firebase Firestore.
 
+### Profile Update
+
+- Users can update their display names and profile information.
+- Profile changes are saved to Firebase in real-time.
+
+## Screenshots
+
+| Page         | Screenshot                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| **Login**    | ![Login Screen]()                                    |
+| **Register** | ![Register Screen](./screenshots/regi![Screenshot_20240921_203312](https://github.com/user-attachments/assets/2440546d-f16c-4fd8-ba54-276f13c40a65)
+ster.png)                              |
+| **Chat Room**| ![Chat Room Screen](./screenshots/chatroom.png)                             |
+| **Profile**  | ![Profile Update Screen](./screenshots/profile.png)                         |
+
 ## Setup
 
 To set up and run the project locally, follow the steps below:
@@ -103,7 +120,7 @@ To set up and run the project locally, follow the steps below:
 
 ## Contributors
 
-- **Rohit Prajapati** - Lead Developer
+- **Nagendra Prajapati** - Lead Developer
 
 ## License
 
