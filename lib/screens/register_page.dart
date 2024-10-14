@@ -45,6 +45,8 @@ class RegisterPage extends StatelessWidget {
               size: 60,
               color: Colors.grey,
             ),
+
+
             Text(
               "Let's create an  account for you",
               style: TextStyle(color: Colors.grey, fontSize: 17),
