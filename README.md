@@ -7,8 +7,6 @@ A Flutter-based chat application that enables real-time messaging and user authe
 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Architecture](#architecture)
-- [State Management](#state-management)
 - [Pages and Functionality](#pages-and-functionality)
 - [Setup](#setup)
 - [Contributors](#contributors)
@@ -30,20 +28,6 @@ A Flutter-based chat application that enables real-time messaging and user authe
 - **Architecture**: Model-View-ViewModel (MVVM)
 - **State Management**: Provider
 - **Backend**: Firebase Authentication, Firebase Firestore
-
-## Architecture
-
-The app follows the MVVM (Model-View-ViewModel) architecture for clear separation between the data, UI, and logic, ensuring scalability and ease of maintenance.
-
-### Key Components:
-
-- **Model**: Handles app data, including user authentication and chat messages.
-- **View**: Represents the UI elements such as login, register, and chat screens.
-- **ViewModel**: Acts as the intermediary between the Model and View, managing data flow and user interactions.
-
-## State Management
-
-The **Provider** package is used for state management, making the app responsive to real-time updates and user inputs. Provider ensures efficient data handling, especially when interacting with Firebase for authentication and chat messaging.
 
 ## Pages and Functionality
 
